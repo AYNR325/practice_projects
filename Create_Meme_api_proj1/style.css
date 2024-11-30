@@ -1,0 +1,26 @@
+*{
+    text-align: center;
+}
+.btn{
+    background-color: yellow;
+    color: black;
+    font-size: 20px;
+    padding: 5px;
+    margin: 10px 20px;
+    cursor: pointer;
+    margin-bottom: 40px;
+}
+.btn:hover{
+    background-color: green;
+    color: white;
+}
+.btn-container{
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+#memeImg img{
+    max-width: 300px;
+    height: auto;
+    margin: 10px 0; 
+}
